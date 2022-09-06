@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/migue/Documents/NetBeansProjects/EjercicioFormulario/../../../../../Fichero/librosEsquema.xsd" uri="xml-resources/jaxb/libros_binding/librosEsquema.xsd"/>
+    <system systemId="file:/C:/Users/migue/Documents/NetBeansProjects/EjercicioFormulario/../../../../../Fichero/LibrosEsquema.xsd" uri="xml-resources/jaxb/javalibros_binding/LibrosEsquema.xsd"/>
+    <system systemId="file:/C:/Users/migue/Documents/NetBeansProjects/PracticaFinalAD%201ºEV/../../../../../Fichero/practicaFinal.xml" uri="xml-resources/jaxb/manejadorjaxb/practicaFinal.xml"/>
+    <system systemId="file:/C:/Users/migue/Documents/NetBeansProjects/PracticaFinalAD%201ºEV/../../../../../Fichero/practicaFinal.xsd" uri="xml-resources/jaxb/manejador_jaxb/practicaFinal.xsd"/>
+</catalog>
